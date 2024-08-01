@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/Javed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aspiringDev_ajk)](https://twitter.com/dev_javedk)
 
 ![](https://komarev.com/ghpvc/?username=javedkhan-hotstar)
+- Let's Connect: [personal account](https://github.com/javedkhan-hotstar).
