@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Javed](https://github.com/javedkhan-hotstar/javedkhan-hotstar) <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" height="60">
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="230">
 
-<h3 align="left">Software Engineer | Technology Enthusiast</h3>
+<h3 align="left">Founder | Builder | Engineer | Technology Enthusiast</h3>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/Javed-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aspiringDev_ajk)](https://twitter.com/dev_javedk)
 
 ![](https://komarev.com/ghpvc/?username=javedkhan-hotstar)
-- Let's Connect: [personal account](https://github.com/abduljavedkhan).
+- ➡️ Primary account: (https://github.com/abduljavedkhan).
